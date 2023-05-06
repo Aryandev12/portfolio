@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 5.62rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #546b88 ;
+    
+}
+h2{
+    font-size: 2.2rem;
+    color:  #546b88;
+    font-weight: normal;
+}
+h3{
+    color:  #11999E;
+}
+a{
+    color: #11999E;
+}
+.top{
+    background-color: #8294C4;
+    position: relative;
+    padding: 100px;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+   bottom: 300px;
+}
+.profile-img{
+    padding: 20px;
+    height: 35%;
+    width: 35%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-img1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-img2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background:  #11cdd4;
+    background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 60px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .contact-me{
+    padding: 50px;
+    margin: 20px 0 20px 0;
+    line-height: 2;
+  }
+
+  .bottom-container{
+    margin: 40px 0 0 0;
+    padding: 40px;
+    background-color: #66BFBF;
+  }
+  .name{
+    color: #EAF6F6;
+  }
+  .footer-link{
+    margin: 10px;
+    font-family: serif;
+    font-weight: normal;
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
+  
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: #bfceee;
+    height: 10px;
+    width: 20%;
+    }
+
+  .profile{
+    margin: 50px 0 50px 0;
+  }
+.profile{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
